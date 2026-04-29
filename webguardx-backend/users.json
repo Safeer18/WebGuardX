@@ -1,0 +1,348 @@
+[
+  {
+    "id": 1775671961293,
+    "email": "zaidisafeer506@gmail.com",
+    "password": "$2b$10$OYw2x7/QvU30ArOW3xxgZeGjMzIDAbXiupkkcp2g5/ZRWyFWdHAcS",
+    "history": [
+      {
+        "type": "URL Scan",
+        "target": "https://www.yourdesignstore.in/",
+        "riskScore": 60,
+        "date": "2026-04-29T09:40:22.704Z"
+      },
+      {
+        "type": "URL Scan",
+        "target": "https://inventyourshit.com/",
+        "riskScore": 25,
+        "date": "2026-04-29T09:39:56.082Z"
+      },
+      {
+        "type": "URL Scan",
+        "target": "https://skillbuilder.aws/",
+        "riskScore": 30,
+        "date": "2026-04-29T09:39:28.495Z"
+      },
+      {
+        "type": "File Scan",
+        "target": "test.txt",
+        "riskScore": 30,
+        "isMalicious": false,
+        "date": "2026-04-29T09:32:32.489Z"
+      },
+      {
+        "type": "URL Scan",
+        "target": "https://erp.geu.ac.in/",
+        "riskScore": 65,
+        "date": "2026-04-29T09:32:01.634Z"
+      },
+      {
+        "type": "URL Scan",
+        "target": "https://public-firing-range.appspot.com/",
+        "riskScore": 45,
+        "date": "2026-04-29T09:30:59.898Z"
+      },
+      {
+        "type": "URL Scan",
+        "target": "https://csitgeu.in/wp/",
+        "riskScore": 75,
+        "date": "2026-04-10T04:29:45.027Z"
+      },
+      {
+        "type": "URL Scan",
+        "target": "https://student.geu.ac.in/",
+        "riskScore": 95,
+        "date": "2026-04-10T04:28:47.055Z"
+      },
+      {
+        "type": "File Scan",
+        "target": "test.txt",
+        "riskScore": 30,
+        "isMalicious": false,
+        "date": "2026-04-10T04:24:07.606Z"
+      },
+      {
+        "type": "File Scan",
+        "target": "image.png.exe",
+        "riskScore": 70,
+        "isMalicious": true,
+        "date": "2026-04-10T04:23:53.005Z"
+      },
+      {
+        "type": "File Scan",
+        "target": "testing.jpg",
+        "riskScore": 60,
+        "isMalicious": false,
+        "date": "2026-04-10T04:23:13.491Z"
+      },
+      {
+        "type": "URL Scan",
+        "target": "https://public-firing-range.appspot.com/",
+        "riskScore": 75,
+        "date": "2026-04-10T04:21:52.213Z"
+      },
+      {
+        "type": "File Scan",
+        "target": "testing.jpg",
+        "riskScore": 60,
+        "isMalicious": false,
+        "date": "2026-04-09T16:58:36.630Z"
+      },
+      {
+        "type": "URL Scan",
+        "target": "https://google.com",
+        "riskScore": 45,
+        "date": "2026-04-09T16:46:50.715Z"
+      },
+      {
+        "type": "URL Scan",
+        "target": "http://192.168.1.1",
+        "riskScore": 90,
+        "date": "2026-04-09T16:46:26.619Z"
+      },
+      {
+        "type": "URL Scan",
+        "target": "https://student.geu.ac.in/",
+        "riskScore": 65,
+        "date": "2026-04-09T16:43:36.423Z"
+      },
+      {
+        "type": "URL Scan",
+        "target": "https://public-firing-range.appspot.com/",
+        "riskScore": 45,
+        "date": "2026-04-09T16:43:09.187Z"
+      },
+      {
+        "type": "File Scan",
+        "target": "test.txt",
+        "riskScore": 30,
+        "isMalicious": false,
+        "date": "2026-04-09T16:42:51.899Z"
+      },
+      {
+        "type": "File Scan",
+        "target": "image.png.exe",
+        "riskScore": 70,
+        "isMalicious": true,
+        "date": "2026-04-09T16:42:33.788Z"
+      },
+      {
+        "type": "File Scan",
+        "target": "test.txt",
+        "riskScore": 30,
+        "isMalicious": false,
+        "date": "2026-04-09T16:37:00.509Z"
+      },
+      {
+        "type": "File Scan",
+        "target": "test.txt",
+        "riskScore": 30,
+        "isMalicious": false,
+        "date": "2026-04-09T16:36:58.722Z"
+      },
+      {
+        "type": "File Scan",
+        "target": "test.txt",
+        "riskScore": 30,
+        "isMalicious": false,
+        "date": "2026-04-09T16:36:45.651Z"
+      },
+      {
+        "type": "File Scan",
+        "target": "test.txt",
+        "riskScore": 30,
+        "isMalicious": false,
+        "date": "2026-04-09T16:36:40.518Z"
+      },
+      {
+        "type": "URL Scan",
+        "target": "https://public-firing-range.appspot.com/",
+        "riskScore": 45,
+        "date": "2026-04-09T16:36:16.687Z"
+      },
+      {
+        "type": "URL Scan",
+        "target": "https://public-firing-range.appspot.com/",
+        "riskScore": 60,
+        "date": "2026-04-09T16:30:05.502Z"
+      },
+      {
+        "type": "File Scan",
+        "target": "image.png.exe",
+        "riskScore": 70,
+        "isMalicious": true,
+        "date": "2026-04-09T16:25:24.018Z"
+      },
+      {
+        "type": "File Scan",
+        "target": "test.txt",
+        "riskScore": 30,
+        "isMalicious": false,
+        "date": "2026-04-09T16:24:59.121Z"
+      },
+      {
+        "type": "File Scan",
+        "target": "test.txt",
+        "riskScore": 30,
+        "isMalicious": false,
+        "date": "2026-04-09T07:30:00.081Z"
+      },
+      {
+        "type": "File Scan",
+        "target": "image.png.exe",
+        "riskScore": 70,
+        "isMalicious": true,
+        "date": "2026-04-09T07:29:33.057Z"
+      },
+      {
+        "type": "URL Scan",
+        "target": "https://student.geu.ac.in/",
+        "riskScore": 60,
+        "date": "2026-04-09T07:28:41.486Z"
+      },
+      {
+        "type": "URL Scan",
+        "target": "https://student.geu.ac.in/",
+        "riskScore": 60,
+        "date": "2026-04-09T07:25:13.613Z"
+      },
+      {
+        "type": "File Scan",
+        "target": "test.txt",
+        "riskScore": 30,
+        "isMalicious": false,
+        "date": "2026-04-09T07:23:53.961Z"
+      },
+      {
+        "type": "File Scan",
+        "target": "image.png.exe",
+        "riskScore": 70,
+        "isMalicious": true,
+        "date": "2026-04-09T07:23:42.426Z"
+      },
+      {
+        "type": "URL Scan",
+        "target": "https://public-firing-range.appspot.com/",
+        "riskScore": 60,
+        "date": "2026-04-09T07:23:25.271Z"
+      },
+      {
+        "type": "URL Scan",
+        "target": "https://public-firing-range.appspot.com/",
+        "riskScore": 60,
+        "date": "2026-04-09T05:52:58.504Z"
+      },
+      {
+        "type": "URL Scan",
+        "target": "https://public-firing-range.appspot.com/",
+        "riskScore": 60,
+        "date": "2026-04-09T05:39:28.575Z"
+      },
+      {
+        "type": "URL Scan",
+        "target": "https://github.com",
+        "riskScore": 10,
+        "date": "2026-04-09T05:39:02.277Z"
+      },
+      {
+        "type": "File Scan",
+        "target": "image.png.exe",
+        "riskScore": 70,
+        "isMalicious": true,
+        "date": "2026-04-09T05:37:55.154Z"
+      },
+      {
+        "type": "File Scan",
+        "target": "image.png.exe",
+        "riskScore": 70,
+        "isMalicious": true,
+        "date": "2026-04-08T19:14:51.467Z"
+      },
+      {
+        "type": "URL Scan",
+        "target": "http://neverssl.com",
+        "riskScore": 100,
+        "date": "2026-04-08T19:14:30.815Z"
+      },
+      {
+        "type": "File Scan",
+        "target": "image.png.exe",
+        "riskScore": 70,
+        "isMalicious": true,
+        "date": "2026-04-08T19:08:04.330Z"
+      },
+      {
+        "type": "File Scan",
+        "target": "test.txt",
+        "riskScore": 50,
+        "isMalicious": false,
+        "date": "2026-04-08T19:07:55.127Z"
+      },
+      {
+        "type": "File Scan",
+        "target": "test.txt",
+        "riskScore": 50,
+        "isMalicious": false,
+        "date": "2026-04-08T19:06:44.574Z"
+      },
+      {
+        "type": "File Scan",
+        "target": "image.png.exe",
+        "riskScore": 70,
+        "isMalicious": true,
+        "date": "2026-04-08T19:06:30.632Z"
+      },
+      {
+        "type": "File Scan",
+        "target": "fake-malware.txt",
+        "riskScore": 100,
+        "isMalicious": true,
+        "date": "2026-04-08T18:53:26.058Z"
+      },
+      {
+        "type": "File Scan",
+        "target": "fake-malware.txt",
+        "riskScore": 100,
+        "isMalicious": true,
+        "date": "2026-04-08T18:50:30.258Z"
+      },
+      {
+        "type": "File Scan",
+        "target": "fake-malware.txt",
+        "riskScore": 100,
+        "isMalicious": true,
+        "date": "2026-04-08T18:36:01.620Z"
+      },
+      {
+        "type": "URL Scan",
+        "target": "https://google.com",
+        "riskScore": 30,
+        "date": "2026-04-08T18:32:35.309Z"
+      },
+      {
+        "type": "URL Scan",
+        "target": "http://graphicera.ac.in",
+        "riskScore": 70,
+        "date": "2026-04-08T18:32:14.873Z"
+      },
+      {
+        "type": "URL Scan",
+        "target": "https://google.com",
+        "riskScore": 30,
+        "date": "2026-04-08T18:17:28.885Z"
+      },
+      {
+        "type": "URL Scan",
+        "target": "http://graphicera.ac.in",
+        "riskScore": 70,
+        "date": "2026-04-08T18:16:58.969Z"
+      },
+      {
+        "type": "File Scan",
+        "target": "safeer7nss.docx",
+        "riskScore": 0,
+        "isMalicious": false,
+        "date": "2026-04-08T18:16:26.934Z"
+      }
+    ]
+  }
+]
